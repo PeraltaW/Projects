@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Android_Photos_51</string>
+
+    <string-array name="albums_array">
+        <item>blex</item>
+        <item>benny</item>
+        <item>bussel</item>
+    </string-array>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="prev">Prev</string>
+    <string name="tagDel">tagDel</string>
+    <string name="tagAdd">tagAdd</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="add">Add</string>
+    <string name="delete">delete</string>
+    <string name="display"> display</string>
+    <string name="move"> move</string>
+    <string name="title_activity_modify_photos">ModifyPhotos</string>
+    <string name="title_activity_album_content">AlbumContent</string>
+    <string name="title_activity_slideshow">AlbumContent</string>
+    <string name="title_activity_newtag">AlbumContent</string>
+</resources>
