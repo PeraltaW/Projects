@@ -1,5 +1,5 @@
-# Projects I've developed 
-Full Stack Software Development - Photos App • Rutgers University 
+# Projects 
+Full Stack Software Development - Android Gallery App • Rutgers University 
 Designed and Developed application for Windows and Android to store photos with date and tags throughout many albums with user friendly interface and features to add, search, edit, delete, and move. 
 
 Minesweeper – Interference-Informed Action • Rutgers University 
