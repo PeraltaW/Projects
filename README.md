@@ -10,3 +10,6 @@ Created a server program in C that accepts HTTP requests and allows multiple cli
 
 Cache Simulator – Computer Architecture • Rutgers University  
 Developed a cache simulator using C that provide real program memory traces as input in the cache simulator. All programs were run on Linux machines to ensure functionality.
+
+Blackjack Game - Python Object Oriented Program
+Develop a blackjack game in python, basic game functionality, to demonstrate object oriented programming in python. 
