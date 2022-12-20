@@ -1,0 +1,34 @@
+<html>
+<head>
+    <title>CS428 Project 3 - maze</title>
+    <meta charset="utf-8">
+    <style>
+        html, body {width: 100%; height: 100%; margin: 0; overflow: hidden; background: #eee;}
+        canvas{
+           
+            border:5px solid;
+            position: absolute;
+            top:0;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            margin:auto;
+        }
+    </style>
+</head>
+<div class="header">
+    <h1 style="text-align:center" style="color: aqua;"h1>
+    <p style= "color: rgb(7, 7, 248)">Goal is to guide Hero to the exit!</p>
+
+    Desired Size: <input type="number" id="heightSize" value= "15" ><br>
+</div>
+<body>
+    <pre id="out"></pre>
+    <canvas id='canvas'></canvas>
+</body>
+<script src='/mazeGen.js'></script>
+<script src='/input.js'></script>
+<script src='/heroMov.js'></script>
+<script src='/interface.js'></script>
+<script src='/main.js'></script>
+</html>
